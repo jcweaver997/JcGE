@@ -1,0 +1,5 @@
+//<object or character> <x> <y> <w> <h> <bt> <mass> <tex>
+//0 1  2  3   4  5     6   7
+0 3 .5 5 .1 STATIC 0 /com/jcweaver/gameEngine/main/brick.jpg
+0 .5 1 .15 5 STATIC 0 /com/jcweaver/gameEngine/main/brick.jpg
+0 5.5 1 .15 5 STATIC 0 /com/jcweaver/gameEngine/main/brick.jpg
